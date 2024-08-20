@@ -1,0 +1,37 @@
+
+.app-container {
+    height: 100vh;
+
+    
+}
+.title-app {
+    font-size: 3em;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    padding: 10%;
+    background-color: blue;
+    color: white;
+    margin: 0;
+    border-bottom: 2px solid white;
+}
+
+.map {
+   justify-self: center;
+    height: 50%;
+    width: 100%;
+}
+
+.timetable {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.timetable-title {
+    font-size: 1rem;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
